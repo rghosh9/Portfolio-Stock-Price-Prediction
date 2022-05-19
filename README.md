@@ -4,7 +4,7 @@ NOTE : This is work in progress code and downloaders are encouraged not to downl
 
 ## Introduction
 
-## Process
+## Architecture and workflow 
 
 ## Environment 
 * Oracle Infrastructure cloud (OCI) tenancy 
